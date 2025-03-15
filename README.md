@@ -1,7 +1,7 @@
 # 8Bit-RISC-Processor
 
 ## Introduction
-This repository hosts an 8-bit RISC processor designed in Verilog, developed as part of my application for the Trainee Engineer (Digital) role at Neural Semiconductor Ltd. The project features a modular architecture with support for key instructions (ADD, SUB, LOAD, STORE, JUMP), verified through ModelSim simulation. It showcases my skills in digital design and prepares me to contribute to innovative semiconductor solutions.
+This repository hosts an 8-bit RISC processor designed in Verilog, developed as part of a personal project to demonstrate digital design skills. The project features a modular architecture with support for key instructions (ADD, SUB, LOAD, STORE, JUMP), verified through ModelSim simulation. It showcases my abilities in digital design and prepares me to contribute to innovative semiconductor solutions.
 
 ## Project Specifications
 The 8-bit RISC processor was designed with the following specifications:
